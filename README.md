@@ -1,4 +1,4 @@
-# Ionic-Cordova-Firebase-Phone-Auth-Android-and-IOS-
+# PickupDev
 
 ## FireBase Phone Authantication  for ionic cordova
 
@@ -6,15 +6,6 @@
 Requires a real device :iphone: NB emulator/simulator wont work
 
 Tested and fully working  :muscle: ..
-
-*Implemented in the following Apps*
-
-1) https://play.google.com/store/apps/details?id=com.churchapp.disciplesoft
-
-
-
-2) https://itunes.apple.com/us/app/bcc-faith-ministries/id1440602772?ls=1&mt=8
-
 
 **Installation**
 
